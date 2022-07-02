@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/05. Kuliah UPB/06. SEMESTER VI/02. Pemrograman Mobile/Pertemuan 14/Recyclerview/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/05. Kuliah UPB/06. SEMESTER VI/02. Pemrograman Mobile/Pertemuan 14/Recyclerview/app/src/main/res/layout/activity_splash_screen.xml" value="0.1308876811594203" />
+        <entry key="..\:/05. Kuliah UPB/06. SEMESTER VI/02. Pemrograman Mobile/Pertemuan 14/Recyclerview/app/src/main/res/layout/detail_data_pemain.xml" value="0.20416666666666666" />
+        <entry key="..\:/05. Kuliah UPB/06. SEMESTER VI/02. Pemrograman Mobile/Pertemuan 14/Recyclerview/app/src/main/res/layout/list_item_pemain.xml" value="0.1" />
       </map>
     </option>
   </component>
